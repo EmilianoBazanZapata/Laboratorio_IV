@@ -4,7 +4,7 @@
 - [X] Primer Ejecicio
 - [X] Segundo Ejercicio
 - [X] Tercer Ejercicio 
-- [ ]  Cuarto Ejercicio
+- [X]  Cuarto Ejercicio
 - [ ]  Quinto Ejercicio 
 ## Bases de Datos 📄
 <table>
